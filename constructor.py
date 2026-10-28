@@ -84,6 +84,7 @@ print(murid1 == murid2)
 ~ __gt__(self, other) untuk > (lebih dari)
 ~ __le__(self, other) untuk <= (kurang dari sama dengan)
 ~ __ge__(self, other) untuk >= (lebih dari sama dengan)
+~ __ne__(self, other) untuk != (tidak sama dengan)
 
 '''
 
